@@ -1,3 +1,3 @@
 #iTWEET
 
-A Simple Chatting App
+A Simple Chatting App using Socket.io
